@@ -6,7 +6,7 @@ I am student 👨‍🎓. and I am full Stack developer and  Designer   as freel
 - 🔭 I’m currently working on Android Development  
 - 🌱 I’m currently learning  learning everything 🤣 
 - 👯 I’m looking to collaborate on  with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Anything New 
 - 📫 How to reach me: akibv93@gmail.com 
 - ⚡ Fun fact: I Love 💓 Doing coding 
