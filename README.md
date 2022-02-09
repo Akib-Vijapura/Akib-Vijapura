@@ -1,9 +1,9 @@
  # Hi there 👋, my name is Akib Vijapura!
 ### I am Developer and Digital creator 
 I am student 👨‍🎓. and I am full Stack developer and  Designer   as freelancers. and I am also graphic designer.and I am currently learning new programming language.
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  
-- 🔭 I’m currently working on Android Development  
+- 🔭 I’m currently working on MERN Stack  
 - 🌱 I’m currently learning  learning everything 🤣 
 - 👯 I’m looking to collaborate on  with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -13,7 +13,7 @@ I am student 👨‍🎓. and I am full Stack developer and  Designer   as freel
 
 ### Contect With Me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Akib-Vijapura)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Akib_vijapura/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_akib10_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Akib_vijapura)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Akib-Vijapura)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/akib-vijapura/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vijapura_akib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Akib_vijapura)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](akibv93@gmail.com)  
 
 
