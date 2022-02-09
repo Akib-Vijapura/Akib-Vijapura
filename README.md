@@ -1,6 +1,6 @@
  # Hi there 👋, my name is Akib Vijapura!
-### I am Developer and Digital creator 
-I am student 👨‍🎓. and I am full Stack developer and  Designer   as freelancers. and I am also graphic designer.and I am currently learning new programming language.
+### I am Developer
+I am student 👨‍🎓. and I am full Stack developer.and I am currently learning new programming language.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  
 - 🔭 I’m currently working on MERN Stack  
