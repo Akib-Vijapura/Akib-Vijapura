@@ -55,6 +55,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akib-Vijapura&show_icons=true)  
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Akib-Vijapura&theme=dark&hide_border=false)<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akib-Vijapura)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/Akib-Vijapura)  
+![](https://komarev.com/ghpvc/?username=Akib-Vijapura) 
