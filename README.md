@@ -53,9 +53,12 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Akib-Vijapura)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akib-Vijapura&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akib-Vijapura&show_icons=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Akib-Vijapura&theme=dark&hide_border=false)<br/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Akib-Vijapura&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akib-Vijapura)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akib-Vijapura)](https://github.com/anuraghazra/github-readme-stats)
 
