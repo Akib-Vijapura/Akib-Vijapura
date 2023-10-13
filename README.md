@@ -39,8 +39,8 @@ I am student 👨‍🎓. and I am full Stack developer.and I am currently learn
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Akib-Vijapura)](https://git.io/streak-stats)
 
-### Akib's Holopin board
-[![@Akib's Holopin board](https://holopin.me/@akibvijapura)](https://holopin.io/@akibvijapura)
+### Akib's Holopin badges
+[![An image of @akibvijapura's Holopin badges](https://holopin.me/akibvijapura)](https://holopin.io/@akibvijapura)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akib-Vijapura)](https://github.com/anuraghazra/github-readme-stats)
 
