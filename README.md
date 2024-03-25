@@ -6,7 +6,7 @@ I am student 👨‍🎓. and I am full Stack developer.and I am currently learn
 - 🔭 I’m currently working on MERN Stack  
 - 🌱 I’m currently learning everything 🤣 
 - 👯 I’m looking to collaborate on  with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Anything New 
 - 📫 How to reach me: akibv93@gmail.com 
 
