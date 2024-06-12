@@ -4,7 +4,7 @@ I am student 👨‍🎓. and I am full Stack developer.and I am currently learn
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  
 - 🔭 I’m currently working on MERN Stack  
-- 🌱 I’m currently  ios development iPhone📱 
+- 🌱 I’m currently  ios development📱 
 - 👯 I’m looking to collaborate on  with other content creators
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Anything New 
