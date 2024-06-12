@@ -18,7 +18,7 @@ I am student 👨‍🎓. and I am full Stack developer.and I am currently learn
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,mysql,html,css,js,ts,c,cpp,py,tailwind,vscode,bash,linux,androidstudio,git,github,githubactions,docker,kubernetes,graphql,md,postman,vite,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,js,ts,c,cpp,py,react,nodejs,express,mongodb,nextjs,mysql,html,css,tailwind,vscode,bash,linux,androidstudio,git,github,githubactions,docker,kubernetes,graphql,md,postman,vite,webpack)](https://skillicons.dev)
 
 <br/>
 <br/>
